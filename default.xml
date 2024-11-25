@@ -2,7 +2,7 @@
 <manifest>
   <remote name="github" fetch="ssh://git@github.com/HorizonRDK" />
 
-  <default revision="main" upstream="main" remote="github" sync-c="true" sync-j="4" />
+  <default revision="main" upstream="history-ubuntu-20.04" remote="github" sync-c="true" sync-j="4" />
 
   <project name="hobot-multimedia" path="source/hobot-multimedia" />
   <project name="hobot-multimedia-dev" path="source/hobot-multimedia-dev"/>
